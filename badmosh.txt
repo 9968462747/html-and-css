@@ -1,0 +1,29 @@
+<link rel="icon" href="https://yt3.googleusercontent.com/229959mjgStMiiR0oMxwAcGZrDYyf5a4iofygyt-EAd65817eOmZ1g0fdOASf7fPfivmZx8-=s900-c-k-c0x00ffffff-no-rj">
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Get in Touch</title>
+    <link rel="stylesheet" href="parveen.css">
+</head>
+<body>
+<section class="contact">
+<div class="content">
+<h2>Contact us</h2>
+<p>We would love to hear from you !<br>
+Book your Counsellor to Experience the Labs.</p>
+</div>
+<div class="container">
+<div class="contactinfo">
+<div class="box">
+<div class="icon"></div>
+<div class="text">
+<h3>Address</h3>
+<p>Unit 435, <br>Bhutani Alphathum, sector 90, Noida,<br> India</p>
+</div>
+</div>
+</div>
+</div>
+</setion>
